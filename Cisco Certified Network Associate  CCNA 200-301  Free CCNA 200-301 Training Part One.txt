@@ -21,3 +21,31 @@ Session layer how to start controlling end to conversations and includes control
 
 Transport Layer is where your TCP is, provided control of the data that is being send from point a to bpoint b. TCP send and resent or UDP just send once.
 
+What is local area network? LAN
+
+Connection like internet cable and port like in the router to be pluged in.
+
+Lab1:
+
+Router: enable
+
+show run
+
+config t
+hostname R1
+
+config t
+ip addr 172.1.1.255.255.255.252
+int g0/0
+ip
+ip addr
+ip addr 172.1.1.255.255.255.252
+
+no shut
+
+show ip int brief
+
+
+
+
+
