@@ -1,0 +1,23 @@
+TCP/IP networking model:
+
+The two tcp/ip networking
+
+The new model has network,datalink,physical + application and transport as old one.
+
+So the physical layer is wire, cable.
+
+
+We can send reliably or not reliably.
+
+
+OCI network model
+
+
+Application layer is when you use the user staff.
+
+Presentation layer is ASCII text binary, JPEG and encryptions.
+
+Session layer how to start controlling end to conversations and includes control management of the bidirectional communicate messages that are being send.
+
+Transport Layer is where your TCP is, provided control of the data that is being send from point a to bpoint b. TCP send and resent or UDP just send once.
+
