@@ -46,6 +46,25 @@ no shut
 show ip int brief
 
 
+Lab2:
+
+?
+
+int g0/1
+
+ip addres 192.168.1.1 ?
+
+no shut
+
+ip int brief
+
+show up int brief
+
+show run
+
+
+
+
 
 
 
